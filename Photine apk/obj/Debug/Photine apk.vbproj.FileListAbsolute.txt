@@ -1,0 +1,35 @@
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\Photine apk.exe.config
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\Photine apk.exe
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\Photine apk.pdb
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\Photine apk.xml
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine apk.vbprojAssemblyReference.cache
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine_apk.RegistrationForm.resources
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine_apk.Resources.resources
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine apk.vbproj.GenerateResource.cache
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine apk.vbproj.CoreCompileInputs.cache
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine apk.exe
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine apk.xml
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine apk.pdb
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\MySql.Data.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\Google.Protobuf.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\Zstandard.Net.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\Renci.SshNet.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\System.Buffers.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\System.Memory.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\bin\Debug\MySql.Data.xml
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine apk.exe.config
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine apk.vbproj.CopyComplete
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine_apk.sign_in.resources
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine_apk.dashboard.resources
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine_apk.usersform.resources
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine_apk.AdminLogIn.resources
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine_apk.Ceremonies.resources
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine_apk.about.resources
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine_apk.feedback.resources
+C:\Users\Springs\Desktop\Vb.Net prjcts\Photine apk\Photine apk\obj\Debug\Photine_apk.Calculator.resources
